@@ -3,3 +3,4 @@ commit #2 for git squash
 commit #3 for git squash
 commit #4 for git squash
 commit #5 for git squash
+commit #6 for git squash
