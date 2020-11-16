@@ -1,3 +1,4 @@
 This file is to amment file to previous commit. ok..
 commit #2 for git squash
 commit #3 for git squash
+commit #4 for git squash
